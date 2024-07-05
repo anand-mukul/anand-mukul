@@ -2,7 +2,7 @@
 
 ## 🌱 About Me
 
-Hey there! I'm [Your Name], a curious college student diving deep into the world of technology. I’m passionate about coding, learning new things, and building cool projects.
+Hey there! I'm Mukul Anand, a curious college student diving deep into the world of technology. I’m passionate about coding, learning new things, and building cool projects.
 
 ```python
 class AboutMe:
