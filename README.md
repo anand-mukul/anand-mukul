@@ -8,23 +8,38 @@ Hey there! I'm Mukul Anand, a curious college student diving deep into the world
 class AboutMe:
     def __init__(self):
         self.name = "Mukul Anand"
-        self.majors = ["Computer Science", "Software Engineering"]
+        self.majors = ["Computer Science"]
         self.interests = ["AI", "Web Development", "Open Source"]
         self.hobbies = ["🎮 Gaming", "📖 Reading", "🌍 Exploring"]
 
     def get_skills(self):
         return {
             "languages": ["Python", "JavaScript", "Java", "C", "TypeScript"],
-            "frameworks": ["React", "Node.js", "NextJs", "Django"],
+            "frameworks": ["React", "Node.js", "Next.js", "Django"],
             "tools": ["Git", "Docker", "AWS"],
             "learning": ["Machine Learning", "Blockchain"]
         }
 
     def __str__(self):
-        return f"Hi, I'm {self.name}, a {self.majors} student. I love {', '.join(self.interests)}."
+        majors_str = ", ".join(self.majors)
+        interests_str = ", ".join(self.interests)
+        hobbies_str = ", ".join(self.hobbies)
+        
+        return (f"Hi, I'm {self.name}, a {majors_str} student.\n"
+                f"I have a keen interest in {interests_str}.\n"
+                f"My hobbies include {hobbies_str}.")
+
+    def full_profile(self):
+        skills = self.get_skills()
+        skills_str = "\n".join(f"{key.capitalize()}: {', '.join(values)}" for key, values in skills.items())
+
+        return (f"{self}\n\n"
+                f"Skills:\n{skills_str}")
 
 me = AboutMe()
 print(me)
+print("\nFull Profile:\n")
+print(me.full_profile())
 ```
 
 ### 🎓 Education
