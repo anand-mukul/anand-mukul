@@ -2,48 +2,6 @@
 
 Hey there! I'm Mukul Anand, a curious college student diving deep into the world of technology. I’m passionate about coding, learning new things, and building cool projects.
 
-```python
-class AboutMe:
-    def __init__(self):
-        self.name = "Mukul Anand"
-        self.majors = ["Computer Science"]
-        self.interests = ["AI", "Web Development", "Open Source"]
-        self.hobbies = ["🎮 Gaming", "📖 Reading", "🌍 Exploring"]
-
-    def get_skills(self):
-        return {
-            "languages": ["Python", "JavaScript", "Java", "C", "TypeScript"],
-            "frameworks": ["React", "Node.js", "Next.js", "Django"],
-            "tools": ["Git", "Docker", "AWS"],
-            "learning": ["Machine Learning", "Blockchain"]
-        }
-
-    def __str__(self):
-        majors_str = ", ".join(self.majors)
-        interests_str = ", ".join(self.interests)
-        hobbies_str = ", ".join(self.hobbies)
-        
-        return (f"Hi, I'm {self.name}, a {majors_str} student.\n"
-                f"I have a keen interest in {interests_str}.\n"
-                f"My hobbies include {hobbies_str}.")
-
-    def full_profile(self):
-        skills = self.get_skills()
-        skills_str = "\n".join(f"{key.capitalize()}: {', '.join(values)}" for key, values in skills.items())
-
-        return (f"{self}\n\n"
-                f"Skills:\n{skills_str}")
-
-me = AboutMe()
-print(me)
-print("\nFull Profile:\n")
-print(me.full_profile())
-```
-
-### 🎓 Education
-- **Chandigarh University**: Pursuing a degree in BE in CSE.
-- **Courses**: Data Structures, Algorithms, Web Development, AI Fundamentals, etc.
-
 ## 💻 My Projects
 
 Here are some projects I’ve worked on or am currently exploring:
