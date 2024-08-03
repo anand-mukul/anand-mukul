@@ -29,13 +29,6 @@ Here are some projects I’ve worked on or am currently exploring:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mukul_Anand-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/anand-mukul/)
 [![Twitter](https://img.shields.io/badge/Twitter-@anand_mukul-1DA1F2?style=flat&logo=twitter)](https://twitter.com/anand-mukul)
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anand-mukul&show_icons=true&theme=radical" alt="Your GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anand-mukul&theme=radical" alt="Your GitHub streak stats" />
-</p>
-
 ## 🌱 Contributions & Learning Path
 
 - **Open Source**: I’m exploring and contributing to various open-source projects. Check out my contributions!
