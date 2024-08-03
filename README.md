@@ -44,10 +44,4 @@ Here are some projects I’ve worked on or am currently exploring:
 
 I love connecting with fellow tech enthusiasts! Feel free to reach out via [email](mailto:mukulanand.dev@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/anand-mukul/).
 
-## 🌟 Fun Fact
-
-```markdown
-Did you know? The first computer programmer was Ada Lovelace in the 19th century. She wrote an algorithm for Charles Babbage’s early mechanical general-purpose computer, the Analytical Engine.
-```
-
 ---
