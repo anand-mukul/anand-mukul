@@ -20,7 +20,7 @@ Here are a few selected projects that highlight my development journey:
   A dynamic JavaScript-based game that challenges both reflexes and strategic thinking.
 
 - **[Dreamix](https://github.com/anand-mukul/Dreamix)**  
-  *Coming soon* – A project that explores creative solutions in AI Transformation.
+  A project that explores creative solutions in AI Transformation.
 
 ---
 
@@ -74,9 +74,36 @@ I work with a diverse array of technologies to create robust and scalable soluti
 
 Explore some of my key repositories that demonstrate my commitment to quality and innovation:
 
-[![Numerify](https://github-readme-stats.vercel.app/api/pin/?username=anand-mukul&repo=numerify&theme=radical)](https://github.com/anand-mukul/numerify)  
-[![PDF Ninja](https://github-readme-stats.vercel.app/api/pin/?username=anand-mukul&repo=PDFNinja&theme=radical)](https://github.com/anand-mukul/PDFNinja)  
-[![Dreamix](https://github-readme-stats.vercel.app/api/pin/?username=anand-mukul&repo=Dreamix&theme=radical)](https://github.com/anand-mukul/Dreamix)
+## ⭐ Featured Repositories
+
+Explore some of my key repositories that demonstrate my commitment to quality and innovation:
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/anand-mukul/numerify">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anand-mukul&repo=numerify&theme=radical" alt="Numerify">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/anand-mukul/PDFNinja">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anand-mukul&repo=PDFNinja&theme=radical" alt="PDF Ninja">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/anand-mukul/Dreamix">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anand-mukul&repo=Dreamix&theme=radical" alt="Dreamix">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/anand-mukul/tic-tac-toe">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anand-mukul&repo=tic-tac-toe&theme=radical" alt="tic-tac-toe">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
