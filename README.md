@@ -74,10 +74,6 @@ I work with a diverse array of technologies to create robust and scalable soluti
 
 Explore some of my key repositories that demonstrate my commitment to quality and innovation:
 
-## ⭐ Featured Repositories
-
-Explore some of my key repositories that demonstrate my commitment to quality and innovation:
-
 <table>
   <tr>
     <td>
