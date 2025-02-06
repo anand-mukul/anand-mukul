@@ -1,54 +1,96 @@
-# 🌟 Welcome to My GitHub World!
+# Welcome to My GitHub Portfolio
 
-Hey there! I'm Mukul Anand, a passionate college student diving deep into the world of technology. I thrive on solving problems, exploring new technologies, and building innovative projects that make an impact. From AI to web development, I enjoy pushing my boundaries and learning along the way.
-
-## 💻 My Projects
-
-Here are some of my projects that showcase my growth as a developer:
-
-- **[Numerify](https://github.com/anand-mukul/numerify)**: A minimalistic web app for basic mathematical calculations.
-- **[PDF Ninja](https://github.com/anand-mukul/PDFNinja)**: An AI-powered model that interacts with PDFs, making data extraction seamless.
-- **[Ricochet Rumble](https://github.com/anand-mukul/ricochet-rumble)**: A fast-paced JavaScript-based game that tests your reflexes and strategy.
-
-## 🔧 Technologies & Tools
-
-I love working with a diverse stack of tools and technologies, including:
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=4AB197" />
-  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=4AB197" />
-  <img src="https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=4AB197" />
-  <img src="https://img.shields.io/badge/Framework-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=4AB197" />
-  <img src="https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=4AB197" />
-  <img src="https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=4AB197" />
-</p>
-
-## 🌟 Highlighted Repositories
-
-Check out some of my favorite repositories:
-
-[![Numerify](https://github-readme-stats.vercel.app/api/pin/?username=anand-mukul&repo=numerify&theme=radical)](https://github.com/anand-mukul/numerify)
-[![PDF Ninja](https://github-readme-stats.vercel.app/api/pin/?username=anand-mukul&repo=PDFNinja&theme=radical)](https://github.com/anand-mukul/PDFNinja)
-
-## 🌐 Let's Connect
-
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mukul_Anand-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/dev-mukul/)
-
-## 🌱 Contributions & Learning Path
-
-- **Open Source**: I'm actively contributing to open-source projects to strengthen my skills and give back to the community.
-- **Learning**: Currently focused on Machine Learning and Web Security, especially in securing modern web applications.
-
-## 🏆 Achievements & Recognition
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anand-mukul&theme=radical&no-frame=true&margin-w=10" alt="GitHub trophies" />
-</p>
-
-## 📬 Reach Out
-
-I love engaging with fellow developers and tech enthusiasts. Feel free to drop me a message via [email](mailto:mukulanand.dev@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/dev-mukul/).
+Hello, I'm **Mukul Anand**—a dedicated and innovative college student with a passion for technology and software development. I am driven by problem-solving and continuously exploring emerging technologies to build impactful solutions. My work spans artificial intelligence, machine learning, web development, and game design.
 
 ---
 
-Thanks for stopping by! Keep coding and stay curious. 🚀
+## Projects & Contributions
+
+Here are a few selected projects that highlight my development journey:
+
+- **[Numerify](https://github.com/anand-mukul/numerify)**  
+  A minimalistic web application designed for essential mathematical calculations.
+
+- **[PDF Ninja](https://github.com/anand-mukul/PDFNinja)**  
+  An AI-driven tool that simplifies PDF data extraction through intelligent interactions.
+
+- **[Ricochet Rumble](https://github.com/anand-mukul/ricochet-rumble)**  
+  A dynamic JavaScript-based game that challenges both reflexes and strategic thinking.
+
+---
+
+## Technologies & Tools
+
+I work with a diverse array of technologies to create robust and scalable solutions:
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=4AB197" alt="Python" />
+  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=4AB197" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=4AB197" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=4AB197" alt="React" />
+  <img src="https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=nextdotjs&logoColor=white&color=4AB197" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Framework-Express-informational?style=flat&logo=express&logoColor=white&color=4AB197" alt="Express" />
+  <img src="https://img.shields.io/badge/Animation-Framer_Motion-informational?style=flat&logo=framer&logoColor=white&color=4AB197" alt="Framer Motion" />
+  <img src="https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=4AB197" alt="C++" />
+  <img src="https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=4AB197" alt="C" />
+  <img src="https://img.shields.io/badge/Database-Prisma-informational?style=flat&logo=prisma&logoColor=white&color=4AB197" alt="Prisma" />
+  <img src="https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&logoColor=white&color=4AB197" alt="Django" />
+  <img src="https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=4AB197" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/API-GraphQL-informational?style=flat&logo=graphql&logoColor=white&color=4AB197" alt="GraphQL" />
+  <img src="https://img.shields.io/badge/CSS-Tailwind_CSS-informational?style=flat&logo=tailwindcss&logoColor=white&color=4AB197" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/State-Redux-informational?style=flat&logo=redux&logoColor=white&color=4AB197" alt="Redux" />
+  <img src="https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=4AB197" alt="Git" />
+  <img src="https://img.shields.io/badge/Package-npm-informational?style=flat&logo=npm&logoColor=white&color=4AB197" alt="npm" />
+  <img src="https://img.shields.io/badge/Package-Yarn-informational?style=flat&logo=yarn&logoColor=white&color=4AB197" alt="Yarn" />
+  <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=4AB197" alt="Linux" />
+  <img src="https://img.shields.io/badge/Platform-GitHub-informational?style=flat&logo=github&logoColor=white&color=4AB197" alt="GitHub" />
+  <img src="https://img.shields.io/badge/DevOps-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197" alt="Docker" />
+  <img src="https://img.shields.io/badge/DevOps-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=4AB197" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=4AB197" alt="AWS" />
+  <img src="https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=4AB197" alt="VS Code" />
+</p>
+
+---
+
+## Featured Repositories
+
+Explore some of my key repositories that demonstrate my commitment to quality and innovation:
+
+[![Numerify](https://github-readme-stats.vercel.app/api/pin/?username=anand-mukul&repo=numerify&theme=radical)](https://github.com/anand-mukul/numerify)  
+[![PDF Ninja](https://github-readme-stats.vercel.app/api/pin/?username=anand-mukul&repo=PDFNinja&theme=radical)](https://github.com/anand-mukul/PDFNinja)
+
+---
+
+## Professional Engagement
+
+- **Open Source Contributions**: I actively contribute to open source projects to refine my skills and support the global developer community.
+- **Continuous Learning**: Currently, I am expanding my expertise in machine learning and web security—focusing on securing modern web applications.
+
+---
+
+## Achievements & Milestones
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anand-mukul&theme=radical&no-frame=true&margin-w=10" alt="GitHub Trophies" />
+</p>
+
+---
+
+## Connect With Me
+
+I welcome opportunities to collaborate with fellow professionals and contribute to innovative projects. Feel free to reach out or connect with me on LinkedIn:
+
+- [Email Me](mailto:mukulanand.dev@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/dev-mukul/)
+
+---
+
+Thank you for visiting my GitHub portfolio. I look forward to engaging in meaningful collaborations and exploring new challenges.
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anand-mukul/anand-mukul/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anand-mukul/anand-mukul/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/anand-mukul/anand-mukul/output/github-snake.svg" />
+</picture>
+
+---
