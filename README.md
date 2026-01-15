@@ -10,8 +10,8 @@ Hello, I'm **Mukul Anand** — a dedicated, innovative college student with a pa
 
 Here are a few selected projects that highlight my development journey:
 
-- **[Numerify](https://github.com/anand-mukul/numerify)**  
-  A minimalistic web application designed for essential mathematical calculations.
+- **[Byto](https://byto.cloud)**  
+  Byto is a secure cloud storage solution designed to simplify file management.
 
 - **[PDF Ninja](https://github.com/anand-mukul/PDFNinja)**  
   An AI-driven tool that simplifies PDF data extraction through intelligent interactions.
@@ -77,25 +77,25 @@ Explore some of my key repositories that demonstrate my commitment to quality an
 <table>
   <tr>
     <td>
-      <a href="https://github.com/anand-mukul/numerify">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anand-mukul&repo=numerify&theme=radical" alt="Numerify">
+      <a href="https://github.com/anand-mukul/portfolio-v2">
+        <img src="https://my-stats.vercel.app/api/pin/?username=anand-mukul&repo=portfolio-v2&theme=radical" alt="Portfolio">
       </a>
     </td>
     <td>
       <a href="https://github.com/anand-mukul/PDFNinja">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anand-mukul&repo=PDFNinja&theme=radical" alt="PDF Ninja">
+        <img src="https://my-stats.vercel.app/api/pin/?username=anand-mukul&repo=PDFNinja&theme=radical" alt="PDF Ninja">
       </a>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://github.com/anand-mukul/Dreamix">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anand-mukul&repo=Dreamix&theme=radical" alt="Dreamix">
+        <img src="https://my-stats.vercel.app/api/pin/?username=anand-mukul&repo=Dreamix&theme=radical" alt="Dreamix">
       </a>
     </td>
     <td>
       <a href="https://github.com/anand-mukul/tic-tac-toe">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anand-mukul&repo=tic-tac-toe&theme=radical" alt="tic-tac-toe">
+        <img src="https://my-stats.vercel.app/api/pin/?username=anand-mukul&repo=tic-tac-toe&theme=radical" alt="tic-tac-toe">
       </a>
     </td>
   </tr>
@@ -115,7 +115,7 @@ Explore some of my key repositories that demonstrate my commitment to quality an
 ## 🏆 Achievements & Milestones
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anand-mukul&theme=radical&no-frame=true&margin-w=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anand-mukul&theme=radical" alt="GitHub Trophies" />
 </p>
 
 ---
